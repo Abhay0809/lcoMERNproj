@@ -1,2 +1,2 @@
 # lcoMERNproj
-An E-Commerce website built using MERN Developement from LearnCodeOnline.in!
+An E-Commerce website built using MERN Developement from LearnCodeOnline.in.
